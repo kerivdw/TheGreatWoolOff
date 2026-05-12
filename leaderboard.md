@@ -12,7 +12,7 @@ Undecided - no one has claimed the throne yet
 
 ## 📊 Standings
 
-### 🦙 Alpacas
+### 🦙 Alpacas lost unfortunately
 
 *(no entries yet)*
 
