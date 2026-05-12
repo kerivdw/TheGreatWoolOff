@@ -20,7 +20,7 @@
 - **Hidden talent:** Eating 40kg grass per minute
 - **Sworn enemy:** Mr. Fox
 - **Catchphrase:** Big bucks, no whammies!
-- **Favourite snack:** Dandelion
+- **Favourite snack:** Chocolate
 - **Theme song:** Adele
 
 ---
