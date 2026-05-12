@@ -12,7 +12,7 @@ Undecided - no one has claimed the throne yet
 
 ## 📊 Standings
 
-### 🦙 Alpacas lost unfortunately
+### 🦙 Alpacas are the current leaders with 1,000,000 points
 
 *(no entries yet)*
 
@@ -24,7 +24,7 @@ Clearly the winners
 
 ## 🔥 Latest Insult Exchanged
 
-*(silence... for now)*
+*Is that the best you got?*
 
 ---
 
@@ -34,8 +34,8 @@ What fuels the Wool-Off?
 
 - [X] Tim Tams
 - [ ] Cheese and crackers
-- [ ] Lamingtons
-- [ ] Carrot sticks (suspiciously healthy)
+- [ ] Water
+- [ ] Jalapeno Poppers
 
 ---
 
@@ -43,4 +43,4 @@ What fuels the Wool-Off?
 
 *(reserved for legendary moments - add yours when the time is right)*
 
-1. *(empty - be the first)*
+1. *Disguised Llamas*
