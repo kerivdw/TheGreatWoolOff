@@ -15,7 +15,7 @@ https://github.com/kerivdw/TheGreatWoolOff.git# Competitor Profile
 
 ## Character Details
 
-- **Wool colour:** Purple with pink spots
+- **Wool colour:** Pink with purple spots
 - **Battle cry:** Extreme Go Horse!
 - **Hidden talent:** Can hide head in the sand
 - **Sworn enemy:** Dingoes
@@ -43,3 +43,4 @@ https://github.com/kerivdw/TheGreatWoolOff.git# Competitor Profile
 *Write a short paragraph (3-5 sentences) about your character. Where did they come from? What drives them to compete in the Great Wool-Off? What do they want the Hall of Fame entry to say about them? What are they hiding?*
 
 My herd was decimated by a pack of dingoes when I was just a baby. I was the only survivor, and I've been on the run ever since. I'm driven by a desire for revenge against the dingoes, and I want the Hall of Fame entry to say that I was the greatest alpaca to ever compete in the Great Wool-Off. I'm hiding the fact that I'm actually a llama in disguise, but don't tell anyone!
+
