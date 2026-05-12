@@ -18,7 +18,7 @@ Undecided - no one has claimed the throne yet
 
 ### 🐑 Black Sheep
 
-*(no entries yet)*
+Clearly the winners
 
 ---
 
@@ -32,7 +32,7 @@ Undecided - no one has claimed the throne yet
 
 What fuels the Wool-Off?
 
-- [ ] Tim Tams
+- [X] Tim Tams
 - [ ] Cheese and crackers
 - [ ] Lamingtons
 - [ ] Carrot sticks (suspiciously healthy)
