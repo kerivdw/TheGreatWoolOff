@@ -21,7 +21,7 @@
 - **Sworn enemy:** Mr. Fox
 - **Catchphrase:** Big bucks, no whammies!
 - **Favourite snack:** Dandelion
-- **Theme song:** We are the champions
+- **Theme song:** Adele
 
 ---
 
