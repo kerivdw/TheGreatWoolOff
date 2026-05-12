@@ -20,7 +20,7 @@ https://github.com/kerivdw/TheGreatWoolOff.git# Competitor Profile
 - **Hidden talent:** Can hide head in the sand
 - **Sworn enemy:** Dingoes
 - **Catchphrase:** What the hell is this?
-- **Favourite snack:** Hot and Spicy Chicken
+- **Favourite snack:** Jalapeno poppers
 - **Theme song:** The muppet theme song
 
 ---
