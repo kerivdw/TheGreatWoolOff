@@ -12,7 +12,7 @@ Undecided - no one has claimed the throne yet
 
 ## 📊 Standings
 
-### 🦙 Alpacas are the current leaders with 1,000,000 points
+### 🦙 Alpacas are the current leaders with 1,000,000 points  - congrats!
 
 *(no entries yet)*
 
