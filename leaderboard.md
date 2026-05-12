@@ -13,6 +13,7 @@ Undecided - no one has claimed the throne yet
 ## 📊 Standings
 
 ### 🦙 Alpacas are the current leaders with 0 points
+### 🦙 Alpacas lost unfortunately
 
 *(no entries yet)*
 
