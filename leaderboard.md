@@ -12,6 +12,7 @@ Undecided - no one has claimed the throne yet
 
 ## 📊 Standings
 
+### 🦙 Alpacas are the current leaders with 0 points
 ### 🦙 Alpacas lost unfortunately
 
 *(no entries yet)*
@@ -35,7 +36,7 @@ What fuels the Wool-Off?
 - [ ] Tim Tams
 - [ ] Cheese and crackers
 - [ ] Lamingtons
-- [ ] Carrot sticks (suspiciously healthy)
+- [ ] Jalapeno Poppers
 
 ---
 
@@ -43,4 +44,4 @@ What fuels the Wool-Off?
 
 *(reserved for legendary moments - add yours when the time is right)*
 
-1. *(empty - be the first)*
+1. *Disguised Llamas*
